@@ -1,0 +1,249 @@
+@media screen and  (max-width: 1290px){
+    .pic {
+        width: 98%;
+        height: auto;
+    }
+
+    .footer-block {
+        margin: 0 15px;
+    }
+}
+@media screen and  (max-width: 1090px){
+    body {
+        font-size: 13px;
+    }
+
+    .main-block-title {
+        font-size: 26px;
+    }
+
+    .main-block-info {
+        font-size: 14px;
+        padding-bottom: 50px;
+        padding-top: 49px;
+    }
+
+    .price {
+        font-size: 18px;
+    }
+
+    .old-price {
+        font-size: 15px;
+    }
+
+    .button {
+        font-size: 10px;
+    }
+
+    .h3 {
+        font-size: 26px;
+    }
+
+    .cart-btn {
+        background: url(../images/cart-ic.png) 50% 100% no-repeat;
+    }
+}
+
+@media screen and  (max-width: 980px){
+    body {
+        font-size: 12px;
+    }
+
+    .sale-blocks {
+        flex-wrap: wrap;
+    }
+
+    .sale-block {
+        max-width: 30%;
+        margin-bottom: 10px;
+    }
+
+    .main-img {
+        width: 50%;
+        height: auto;
+    }
+
+    .main-block-info {
+        padding: 30px 61px 40px 45%;
+        font-size: 12px;
+    }
+
+    .main-block-title {
+        margin-left: 45%;
+        font-size: 23px;
+    }
+
+    .article-txt  {
+        font-size: 14px;
+    }
+
+    .phone-number {
+        font-size: 18px;
+    }
+}
+
+@media screen and  (max-width: 850px){
+    .main-nav-list {
+        padding-left: 15px;
+    }
+}
+
+@media screen and  (max-width: 750px){
+    .main-img {
+        width: 100%;
+        position: relative;
+        height: auto;
+    }
+
+    .main-block-inner {
+        margin-left: 0;
+    }
+
+    .main-block-title {
+        margin-left: 0;
+        font-size: 23px;
+    }
+
+    .main-block-info {
+        padding-left: 15px;
+        font-size: 13px;
+    }
+
+    .block-stats-inner {
+        flex-wrap: wrap;
+    }
+
+    .card {
+        width: 40%;
+    }
+
+    .h3 {
+        font-size: 20px;
+    }
+
+    .firm-collection {
+        display: block;
+    }
+
+    .pic {
+        width: 100%;
+    }
+
+    .sale-block {
+        max-width: 45%;
+    }
+}
+
+@media screen and  (max-width: 640px){
+    .header-inner {
+        display: block;
+    }
+
+    .main-nav-list {
+        padding-left: 0;
+    }
+
+    .main-nav-item:first-child {
+        margin-left: 0;
+    }
+
+    .cart-btn {
+        position: absolute;
+        top: 20px;
+        left: 90%;
+    }
+
+    .main-block, .block-stats  {
+        margin-bottom: 10px;
+    }
+
+    .h3 {
+        margin-top: 20px;
+    }
+
+    .article {
+        flex-wrap: wrap;
+        margin-bottom: 50px;
+    }
+
+    .article-block {
+        max-width: 40%;
+        margin-bottom: 10px;
+    }
+
+    .footer-block {
+       flex-wrap: wrap;
+    }
+}
+
+@media screen and  (max-width: 510px){
+    .main-nav-item {
+        margin-left: 10px;
+    }
+
+    .main-block-info {
+        padding-top: 10px;
+    }
+
+    .block-stats-inner {
+        display: block;
+    }
+
+    .card {
+        width: 100%;
+    }
+
+    .sale-block {
+        max-width: 100%;
+        display: flex;
+        min-height: auto;
+    }
+
+    .article {
+        display: block;
+    }
+
+    .article-block {
+        max-width: 100%;
+        display: flex;
+    }
+
+    .article-pic {
+        width: 50%;
+    }
+
+    .article-txt {
+        padding:28px 8px 27px 10px;
+    }
+
+    .phone-number {
+        font-size: 16px;
+    }
+}
+
+@media screen and  (max-width: 405px) {
+    .article-txt {
+        font-size: 12px;
+        padding: 10px 8px 10px 10px;
+    }
+
+    .main-block-info {
+        padding-right: 15px;
+    }
+
+    .cart-btn {
+        top: 10px;
+    }
+
+    body {
+        font-size: 11px;
+    }
+
+    .price {
+        font-size: 16px;
+    }
+
+    .old-price {
+        font-size: 14px;
+    }
+}
